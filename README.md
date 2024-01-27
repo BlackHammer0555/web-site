@@ -1,1 +1,1 @@
-<a href="https://blackhammer0555.github.io/web-site/E-Com/about.html">WEBSITE</a>
+<a href="https://blackhammer0555.github.io/web-site/E-Com/index.html">WEBSITE</a>
